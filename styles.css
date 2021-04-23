@@ -1,0 +1,25 @@
+body {
+    background-color: darkgrey;
+    margin: 0;
+}
+.border {
+    border: 2px solid darkred;
+}
+.border-blue {
+    border : 2px solid blue;
+}
+.main-containter {
+    /* propert: value; */
+    height: 100vh;
+}
+nav {
+    height: 80px;
+    display: flex;
+}
+.logo {
+    height: 60px;
+    width: 200px;
+}
+nav ul{
+
+}
